@@ -1,3 +1,5 @@
+using Assets.DoodleJump.Scripts.Common.SignalBus.Signals;
+using Tools.SignalBus;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -9,27 +11,26 @@ public class GameOverView : MonoBehaviour
 
     private void OnEnable()
     {
-        _restartButton.onClick.AddListener(RestartButtonClicked);   
-    }
-
-    private void Start()
-    {
-        ChangeViewStatus(false);
+        _restartButton.onClick.AddListener(RestartButtonClicked);  
+        SignalBus.Instance.Subscribe<EndGameSignal>(ChangeViewStatus);
     }
 
     private void OnDisable()
     {
         _restartButton.onClick.RemoveListener(RestartButtonClicked);
+        SignalBus.Instance.Unsubscribe<EndGameSignal>(ChangeViewStatus);
     }
 
-    public void ChangeViewStatus(bool isActive)
+    public void ChangeViewStatus(EndGameSignal signal)
     {
-        _gameOverObj.SetActive(isActive);
+        _gameOverObj.SetActive(true);
+        Time.timeScale = 0f;
     }
 
     private void RestartButtonClicked()
     {
-        string currentSceneName  = SceneManager.GetActiveScene().name;
+        string currentSceneName = SceneManager.GetActiveScene().name;
+        Time.timeScale = 1f;
         SceneManager.LoadScene(currentSceneName);
     }
 }

@@ -1,15 +1,20 @@
+using Assets.DoodleJump.Scripts.Storage.SpawnConfig;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class LocationGenerator : MonoBehaviour
 {
     [SerializeField] private List<GameObject> _platformPrefabs;
+    [SerializeField] private List<SpawnConfiguration> _spawnConfigurations;
+
     [SerializeField] private Transform _platformParant;
     [SerializeField] private int _initialPlatforms = 15;
     [SerializeField] private float _maxDistanceBetweenPlatforms = 1.5f;
     [SerializeField] private float _minDistanceBetweenPlatforms = 0.3f;
     [SerializeField] private float _levelWidth = 3f;
     [SerializeField] private Transform _playerTransform;
+    
 
     private Queue<GameObject> _platforms = new();
 
@@ -30,7 +35,7 @@ public class LocationGenerator : MonoBehaviour
 
     private void Update()
     {
-        if(_playerTransform.position.y + 10f > _highestY)
+        if(_playerTransform.position.y + 5f > _highestY)
         {
             GeneratePlatformRow();
             ClenupPlatformsRow();
@@ -54,6 +59,8 @@ public class LocationGenerator : MonoBehaviour
         platform.transform.SetParent(_platformParant);
         _platforms.Enqueue(platform);
 
+        RandomSpawn(platform.GetComponent<BasePlatform>());
+
         float distance = Random.Range(_minDistanceBetweenPlatforms, _maxDistanceBetweenPlatforms);
         _highestY += distance;
     }
@@ -64,6 +71,26 @@ public class LocationGenerator : MonoBehaviour
         {
             GameObject element = _platforms.Dequeue();
             Destroy(element);
+        }
+    }
+
+    private void RandomSpawn(BasePlatform platform)
+    {
+        if (_spawnConfigurations.Count == 0)
+            return;
+
+        float sumChance = _spawnConfigurations.Sum(config => config.Chance);
+        float randomValue = Random.Range(0, sumChance * 3);
+        float sum = 0;
+
+        for(int i = 0; i < _spawnConfigurations.Count; i++)
+        {
+            sum += _spawnConfigurations[i].Chance;
+            if (randomValue < sum)
+            {
+                platform.Spawn(_spawnConfigurations[i].Prefab);
+                return;
+            }
         }
     }
 }
