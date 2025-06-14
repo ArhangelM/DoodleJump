@@ -1,3 +1,4 @@
+using Assets.DoodleJump.Scripts.Runtime.Interfaces.Actions.Common;
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -25,8 +26,11 @@ public class PlayerMovement : MonoBehaviour
         _playerInputSystem.Player.ScreenTouched.canceled += OnMoveCanceled();
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
+        if (_rigidbody.bodyType == RigidbodyType2D.Static)
+            return;
+
         MovePlayer();
     }
 
@@ -86,13 +90,26 @@ public class PlayerMovement : MonoBehaviour
                                                                               
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.TryGetComponent<BasePlatform>(out var platform))
+        if (collision.gameObject.TryGetComponent<IInteraction>(out var obj))
+        {
+            obj.Interaction();
+        }
+
+        if (collision.gameObject.TryGetComponent<BasePlatform>(out var platform))
         {
             if (_rigidbody.linearVelocity.y > 0)
                 return;
 
             _rigidbody.linearVelocity = new Vector2(_rigidbody.linearVelocity.x, platform.JumpForce);
             platform.Interaction();
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.TryGetComponent<IInteraction>(out var obj))
+        {
+            obj.Interaction();
         }
     }
 }

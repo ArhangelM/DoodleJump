@@ -1,5 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
+using Assets.DoodleJump.Scripts.Common.SignalBus.Signals;
+using Tools.SignalBus;
 using UnityEngine;
 
 public class PlayerIventTrigger : MonoBehaviour
@@ -10,7 +10,7 @@ public class PlayerIventTrigger : MonoBehaviour
     {
         if(collision.CompareTag("EndZone"))
         {
-            _gameOverView.ChangeViewStatus(true);
+            SignalBus.Instance.Invoke(new EndGameSignal());
             _playerMovement.StopPlayer();
         }
     }
