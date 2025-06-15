@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93e991be48bada4459766ebf99fe0298, type: 3}
   m_Name: TallEnemy
   m_EditorClassIdentifier: 
-  _prefab: {fileID: 1442048225215793397, guid: bcaee5d1e1937804c97908402a55a73b, type: 3}
-  _chance: 0.1
+  <Prefab>k__BackingField: {fileID: 1442048225215793397, guid: bcaee5d1e1937804c97908402a55a73b, type: 3}
+  <Chance>k__BackingField: 0.1
