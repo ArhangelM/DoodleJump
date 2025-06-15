@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93e991be48bada4459766ebf99fe0298, type: 3}
   m_Name: Star
   m_EditorClassIdentifier: 
-  _prefab: {fileID: 1877556151792879164, guid: a9b5e241ad9f629469444a0deb7ef303, type: 3}
-  _chance: 0.3
+  <Prefab>k__BackingField: {fileID: 1877556151792879164, guid: a9b5e241ad9f629469444a0deb7ef303, type: 3}
+  <Chance>k__BackingField: 0.2
