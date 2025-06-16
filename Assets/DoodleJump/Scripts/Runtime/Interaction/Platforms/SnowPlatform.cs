@@ -6,8 +6,14 @@ namespace Assets.DoodleJump.Scripts.Runtime.Interaction.Platforms
     {
         [SerializeField] private Sprite[] _stages;
         [SerializeField] private SpriteRenderer _spriteRenderer;
+        [SerializeField] private Animator _animator;
 
         private int _hp = 3;
+
+        private void Awake()
+        {
+            _animator.enabled = false;
+        }
 
         public override void Interaction()
         {
@@ -15,7 +21,14 @@ namespace Assets.DoodleJump.Scripts.Runtime.Interaction.Platforms
             _spriteRenderer.sprite = _stages[_hp];
 
             if (_hp <= 0)
-                Destroy(gameObject);
+            {
+                _animator.enabled = true;
+            }
+        }
+
+        public void DestroyPlatform()
+        {
+            Destroy(gameObject);
         }
     }
 }
