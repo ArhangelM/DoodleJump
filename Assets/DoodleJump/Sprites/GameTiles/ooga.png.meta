@@ -1,0 +1,3159 @@
+fileFormatVersion: 2
+guid: 6c3b0922866d0e742998bffa83aac55b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5901161153041369944
+    second: ooga_0
+  - first:
+      213: 41291399997420074
+    second: ooga_1
+  - first:
+      213: -1229884379644772334
+    second: ooga_2
+  - first:
+      213: -156111201074950446
+    second: ooga_3
+  - first:
+      213: 3086652010770187740
+    second: ooga_4
+  - first:
+      213: -8372736358546371357
+    second: ooga_5
+  - first:
+      213: 7567217235683457333
+    second: ooga_6
+  - first:
+      213: 456274444846923555
+    second: ooga_7
+  - first:
+      213: -8107728835489124440
+    second: ooga_8
+  - first:
+      213: -1949381495252461112
+    second: ooga_9
+  - first:
+      213: -8387645430001942775
+    second: ooga_10
+  - first:
+      213: -985285374730806938
+    second: ooga_11
+  - first:
+      213: -205115513291024097
+    second: ooga_12
+  - first:
+      213: 7021128117996585255
+    second: ooga_13
+  - first:
+      213: -3664430951875015468
+    second: ooga_14
+  - first:
+      213: 1007644657574692077
+    second: ooga_15
+  - first:
+      213: 2254954305814809351
+    second: ooga_16
+  - first:
+      213: 1474079002126270369
+    second: ooga_17
+  - first:
+      213: 8890467833448089257
+    second: ooga_18
+  - first:
+      213: 3996561359603838352
+    second: ooga_19
+  - first:
+      213: -5264468821896682440
+    second: ooga_20
+  - first:
+      213: 3583256661672751985
+    second: ooga_21
+  - first:
+      213: -2624338037992402342
+    second: ooga_22
+  - first:
+      213: -2571515030036205583
+    second: ooga_23
+  - first:
+      213: 2481618857385950626
+    second: ooga_24
+  - first:
+      213: -4518782267265333126
+    second: ooga_25
+  - first:
+      213: -8276392311457257923
+    second: ooga_26
+  - first:
+      213: 3908721468435867215
+    second: ooga_27
+  - first:
+      213: 3588338436959169172
+    second: ooga_28
+  - first:
+      213: 3768369388177754356
+    second: ooga_29
+  - first:
+      213: -981806161533087488
+    second: ooga_30
+  - first:
+      213: -2681531664495678952
+    second: ooga_31
+  - first:
+      213: -4147899935970622847
+    second: ooga_32
+  - first:
+      213: -7318232789071792573
+    second: ooga_33
+  - first:
+      213: 5720508362043397988
+    second: ooga_34
+  - first:
+      213: 5763635327048363422
+    second: ooga_35
+  - first:
+      213: 2786858717360372025
+    second: ooga_36
+  - first:
+      213: 3725517955489213653
+    second: ooga_37
+  - first:
+      213: -6895098635574827392
+    second: ooga_38
+  - first:
+      213: -7857903172922710842
+    second: ooga_39
+  - first:
+      213: 9016333374308293723
+    second: ooga_40
+  - first:
+      213: 1841266457634889244
+    second: ooga_41
+  - first:
+      213: 8257143722407333602
+    second: ooga_42
+  - first:
+      213: -5606139854485969683
+    second: ooga_43
+  - first:
+      213: 7497902495548448824
+    second: ooga_44
+  - first:
+      213: -2848461845652106310
+    second: ooga_45
+  - first:
+      213: 6458486445954966044
+    second: ooga_46
+  - first:
+      213: 2565401049987473846
+    second: ooga_47
+  - first:
+      213: -1678968191466205634
+    second: ooga_48
+  - first:
+      213: 649185081001899368
+    second: ooga_49
+  - first:
+      213: -4107999750082846289
+    second: ooga_50
+  - first:
+      213: 8922212596046348522
+    second: ooga_51
+  - first:
+      213: 5535917549466546289
+    second: ooga_52
+  - first:
+      213: 6937969662855917282
+    second: ooga_53
+  - first:
+      213: 5538104456313237867
+    second: ooga_54
+  - first:
+      213: 6396543664829667262
+    second: ooga_55
+  - first:
+      213: -4652697149198545649
+    second: ooga_56
+  - first:
+      213: 9218779497491256604
+    second: ooga_57
+  - first:
+      213: -8775826086921165150
+    second: ooga_58
+  - first:
+      213: -5760196454697586629
+    second: ooga_59
+  - first:
+      213: 125841139945030381
+    second: ooga_60
+  - first:
+      213: -1854741250483468621
+    second: ooga_61
+  - first:
+      213: -9158469724178525760
+    second: ooga_62
+  - first:
+      213: 1143603901842909759
+    second: ooga_63
+  - first:
+      213: -7518249095822393856
+    second: ooga_64
+  - first:
+      213: -6203802634715642758
+    second: ooga_65
+  - first:
+      213: 439922850088792034
+    second: ooga_66
+  - first:
+      213: 2556107758119055461
+    second: ooga_67
+  - first:
+      213: -6477472182381506998
+    second: ooga_68
+  - first:
+      213: 6677079697164585209
+    second: ooga_69
+  - first:
+      213: -4848611558588461839
+    second: ooga_70
+  - first:
+      213: -4356454933620708056
+    second: ooga_71
+  - first:
+      213: -8623118740662098719
+    second: ooga_72
+  - first:
+      213: -169893735515214696
+    second: ooga_73
+  - first:
+      213: 335339982156795041
+    second: ooga_74
+  - first:
+      213: -3314468926909669519
+    second: ooga_75
+  - first:
+      213: 5125845923218332672
+    second: ooga_76
+  - first:
+      213: 845858486541811845
+    second: ooga_77
+  - first:
+      213: 3959264354652025204
+    second: ooga_78
+  - first:
+      213: 1561951815998512883
+    second: ooga_79
+  - first:
+      213: 6457364022692848942
+    second: ooga_80
+  - first:
+      213: -5506281899456517967
+    second: ooga_81
+  - first:
+      213: 5708335133334764070
+    second: ooga_82
+  - first:
+      213: -7903027371045476481
+    second: ooga_83
+  - first:
+      213: 7756061870318120834
+    second: ooga_84
+  - first:
+      213: 5258380053046909549
+    second: ooga_85
+  - first:
+      213: -8079673443498559688
+    second: ooga_86
+  - first:
+      213: 1054087240997167107
+    second: ooga_87
+  - first:
+      213: -2583181311777124822
+    second: ooga_88
+  - first:
+      213: 7774721604366805119
+    second: ooga_89
+  - first:
+      213: 7920061435440566458
+    second: ooga_90
+  - first:
+      213: 8910260246300964115
+    second: ooga_91
+  - first:
+      213: 5982437127778724419
+    second: ooga_92
+  - first:
+      213: 4711588780606506972
+    second: ooga_93
+  - first:
+      213: 7582632727482138687
+    second: ooga_94
+  - first:
+      213: -5610944314547709315
+    second: ooga_95
+  - first:
+      213: -8639082988724203408
+    second: ooga_96
+  - first:
+      213: -8417088849413670110
+    second: ooga_97
+  - first:
+      213: 1639701496282762503
+    second: ooga_98
+  - first:
+      213: -4117396994413727579
+    second: ooga_99
+  - first:
+      213: -5146415662607095216
+    second: ooga_100
+  - first:
+      213: -2897311385275940800
+    second: ooga_101
+  - first:
+      213: -8982994042765625615
+    second: ooga_102
+  - first:
+      213: 1462663441176217391
+    second: ooga_103
+  - first:
+      213: 5245728955324754787
+    second: ooga_104
+  - first:
+      213: -2919528884488250672
+    second: ooga_105
+  - first:
+      213: 6029256230857989737
+    second: ooga_106
+  - first:
+      213: -6165047785216101657
+    second: ooga_107
+  - first:
+      213: 8752005054256844942
+    second: ooga_108
+  - first:
+      213: -7501884244672457531
+    second: ooga_109
+  - first:
+      213: 7358590598295175518
+    second: ooga_110
+  - first:
+      213: 8325335147266708045
+    second: ooga_111
+  - first:
+      213: -3179676302548651689
+    second: ooga_112
+  - first:
+      213: -7007365790598567256
+    second: ooga_113
+  - first:
+      213: 776890918362108568
+    second: ooga_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ooga_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a472ae623dda1ea0800000000000000
+      internalID: -5901161153041369944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22ff1d3f42b29000800000000000000
+      internalID: 41291399997420074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 275
+        width: 80
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210c8744ca29eeee0800000000000000
+      internalID: -1229884379644772334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 419
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec77290b165ddf0800000000000000
+      internalID: -156111201074950446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 465
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c33766adf5da20800000000000000
+      internalID: 3086652010770187740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 465
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec88de74a01ecb80800000000000000
+      internalID: -8372736358546371357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 465
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5393027abf7240960800000000000000
+      internalID: 7567217235683457333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 465
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f703da033055600800000000000000
+      internalID: 456274444846923555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 397
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afaa79a49f8b7f80800000000000000
+      internalID: -8107728835489124440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9d1cbbbd762f4e0800000000000000
+      internalID: -1949381495252461112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f3ecacbe8199b80800000000000000
+      internalID: -8387645430001942775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 397
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66958c40c209352f0800000000000000
+      internalID: -985285374730806938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19dd540788472df0800000000000000
+      internalID: -205115513291024097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 430
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72181b3e2de007160800000000000000
+      internalID: 7021128117996585255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 443
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc0b89d673552dc0800000000000000
+      internalID: -3664430951875015468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de44f823a7fdbfd00800000000000000
+      internalID: 1007644657574692077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b44de6ef43b4f10800000000000000
+      internalID: 2254954305814809351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 420
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af399cda0bf47410800000000000000
+      internalID: 1474079002126270369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 421
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c5bb0469416b70800000000000000
+      internalID: 8890467833448089257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 421
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d2d32c163a67730800000000000000
+      internalID: 3996561359603838352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 421
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834aab3bf79d0f6b0800000000000000
+      internalID: -5264468821896682440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 305
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1737e0ae2f84ab130800000000000000
+      internalID: 3583256661672751985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 399
+        width: 80
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52dae2757a749bd0800000000000000
+      internalID: -2624338037992402342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 392
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2d1464b4205cd0800000000000000
+      internalID: -2571515030036205583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 400
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad766ed33b707220800000000000000
+      internalID: 2481618857385950626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78c05e287f0a41c0800000000000000
+      internalID: -4518782267265333126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 371
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36e0ddfa09542d80800000000000000
+      internalID: -8276392311457257923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 371
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46201c57719e3630800000000000000
+      internalID: 3908721468435867215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 371
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae4dcebc65cc130800000000000000
+      internalID: 3588338436959169172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 371
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f88acc2effeb4430800000000000000
+      internalID: 3768369388177754356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 371
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d7877f7cef52f0800000000000000
+      internalID: -981806161533087488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 371
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ae5c3982949cad0800000000000000
+      internalID: -2681531664495678952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 371
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1820b981cf2bf66c0800000000000000
+      internalID: -4147899935970622847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 371
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34672cf4d0a607a90800000000000000
+      internalID: -7318232789071792573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 371
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4679f36fb04536f40800000000000000
+      internalID: 5720508362043397988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 371
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d2c9bfacb8cff40800000000000000
+      internalID: 5763635327048363422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 370
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939377fec39eca620800000000000000
+      internalID: 2786858717360372025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 370
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc264587d2b3b330800000000000000
+      internalID: 3725517955489213653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 365
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086284f9250bf40a0800000000000000
+      internalID: -6895098635574827392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 371
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e68a72be13f290800000000000000
+      internalID: -7857903172922710842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 368
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c1520fe63702d70800000000000000
+      internalID: 9016333374308293723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e5b28761e7d8910800000000000000
+      internalID: 1841266457634889244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 329
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee8f61a774479270800000000000000
+      internalID: 8257143722407333602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 344
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de42434418df232b0800000000000000
+      internalID: -5606139854485969683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 344
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8302ea71896ed0860800000000000000
+      internalID: 7497902495548448824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 344
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab317ad0b0b3878d0800000000000000
+      internalID: -2848461845652106310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 344
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1222dd343721a950800000000000000
+      internalID: 6458486445954966044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 344
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1eae2b9a22a9320800000000000000
+      internalID: 2565401049987473846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_48
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 321
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e0a7e435b13b8e0800000000000000
+      internalID: -1678968191466205634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f992446e520900800000000000000
+      internalID: 649185081001899368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 329
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa12bee0ef37df6c0800000000000000
+      internalID: -4107999750082846289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 344
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0cbdd851112db70800000000000000
+      internalID: 8922212596046348522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 344
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170fdc14ea783dc40800000000000000
+      internalID: 5535917549466546289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 344
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eea6f046ae984060800000000000000
+      internalID: 6937969662855917282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 344
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61fe8f29ac4bdc40800000000000000
+      internalID: 5538104456313237867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb79274a29615c850800000000000000
+      internalID: 6396543664829667262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 275
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4c86089c4e6fb0800000000000000
+      internalID: -4652697149198545649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 309
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15de9a1c1fafef70800000000000000
+      internalID: 9218779497491256604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 312
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a625769ba0063680800000000000000
+      internalID: -8775826086921165150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_59
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 319
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b303941e7dbaf00b0800000000000000
+      internalID: -5760196454697586629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_60
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 294
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2cd8c99d31fb100800000000000000
+      internalID: 125841139945030381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b64ba6d8a2a246e0800000000000000
+      internalID: -1854741250483468621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c15b2c3f4496e080800000000000000
+      internalID: -9158469724178525760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae81d80b5eedf00800000000000000
+      internalID: 1143603901842909759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eba9ed740d9a790800000000000000
+      internalID: -7518249095822393856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 290
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7444257f5aa7e9a0800000000000000
+      internalID: -6203802634715642758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 285
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efae18508bea1600800000000000000
+      internalID: 439922850088792034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 267
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5607e42967e197320800000000000000
+      internalID: 2556107758119055461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_68
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e0da68e556b16a0800000000000000
+      internalID: -6477472182381506998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_69
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 272
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8c77e9b90c9ac50800000000000000
+      internalID: 6677079697164585209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 272
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc4b7cf97546bcb0800000000000000
+      internalID: -4848611558588461839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_71
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 272
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d2a81c153ca83c0800000000000000
+      internalID: -4356454933620708056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_72
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 283
+        width: 58
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e462de4137845880800000000000000
+      internalID: -8623118740662098719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_73
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 277
+        width: 58
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c2d053c8a64adf0800000000000000
+      internalID: -169893735515214696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0173efed57a400800000000000000
+      internalID: 335339982156795041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f9a706214a002d0800000000000000
+      internalID: -3314468926909669519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 220
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c10d295b9a22740800000000000000
+      internalID: 5125845923218332672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 253
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580039cdfc71dbb00800000000000000
+      internalID: 845858486541811845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 166
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47176e614f122f630800000000000000
+      internalID: 3959264354652025204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe1edca6ea2da510800000000000000
+      internalID: 1561951815998512883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 210
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25aef5bd5a2d9950800000000000000
+      internalID: 6457364022692848942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_81
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 209
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b82bb539c1c593b0800000000000000
+      internalID: -5506281899456517967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 169
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62afc494f84183f40800000000000000
+      internalID: 5708335133334764070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7725a26a7ec25290800000000000000
+      internalID: -7903027371045476481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_84
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 160
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f634c7d2113ab60800000000000000
+      internalID: 7756061870318120834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a5cd35cc489f840800000000000000
+      internalID: 5258380053046909549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_86
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 167
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8377c13afcb3fdf80800000000000000
+      internalID: -8079673443498559688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 143
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30068e9c2ced0ae00800000000000000
+      internalID: 1054087240997167107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_88
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 144
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ec8118842b62cd0800000000000000
+      internalID: -2583181311777124822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 144
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78a6df5b1c55eb60800000000000000
+      internalID: 7774721604366805119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_90
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab094bac9e5b9ed60800000000000000
+      internalID: 7920061435440566458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 144
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315bd054c7a97ab70800000000000000
+      internalID: 8910260246300964115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_92
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 159
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aeb541fd2e50350800000000000000
+      internalID: 5982437127778724419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_93
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 145
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd744cb680de26140800000000000000
+      internalID: 4711588780606506972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_94
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 145
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3003d78a4cea3960800000000000000
+      internalID: 7582632727482138687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_95
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 145
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad2ecbfdbe122b0800000000000000
+      internalID: -5610944314547709315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_96
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 150
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07059f72bcfcb1880800000000000000
+      internalID: -8639082988724203408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bfbcf794e703b80800000000000000
+      internalID: -8417088849413670110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 100
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4c97c2d361c610800000000000000
+      internalID: 1639701496282762503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_99
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a075bc9f311cd6c0800000000000000
+      internalID: -4117396994413727579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 145
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a2cc3c8324498b0800000000000000
+      internalID: -5146415662607095216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_101
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040ceec45aeaac7d0800000000000000
+      internalID: -2897311385275940800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_102
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 110
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63185138ef55380800000000000000
+      internalID: -8982994042765625615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_103
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 117
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27424576ac6c4410800000000000000
+      internalID: 1462663441176217391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_104
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 118
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bec1a11b29cc840800000000000000
+      internalID: 5245728955324754787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 121
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dad598a2ffbb77d0800000000000000
+      internalID: -2919528884488250672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_106
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed91cf8983ca350800000000000000
+      internalID: 6029256230857989737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_107
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 122
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2b2e204b9517aa0800000000000000
+      internalID: -6165047785216101657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 114
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80176b0a3e557970800000000000000
+      internalID: 8752005054256844942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4d232b604f3e790800000000000000
+      internalID: -7501884244672457531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_110
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c9e26927fe1660800000000000000
+      internalID: 7358590598295175518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4218e8f438898370800000000000000
+      internalID: 8325335147266708045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_112
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7513cdddf358fd3d0800000000000000
+      internalID: -3179676302548651689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae528a0f5d0ce90800000000000000
+      internalID: -7007365790598567256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ooga_114
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89253329c2218ca00800000000000000
+      internalID: 776890918362108568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ooga_0: -5901161153041369944
+      ooga_1: 41291399997420074
+      ooga_10: -8387645430001942775
+      ooga_100: -5146415662607095216
+      ooga_101: -2897311385275940800
+      ooga_102: -8982994042765625615
+      ooga_103: 1462663441176217391
+      ooga_104: 5245728955324754787
+      ooga_105: -2919528884488250672
+      ooga_106: 6029256230857989737
+      ooga_107: -6165047785216101657
+      ooga_108: 8752005054256844942
+      ooga_109: -7501884244672457531
+      ooga_11: -985285374730806938
+      ooga_110: 7358590598295175518
+      ooga_111: 8325335147266708045
+      ooga_112: -3179676302548651689
+      ooga_113: -7007365790598567256
+      ooga_114: 776890918362108568
+      ooga_12: -205115513291024097
+      ooga_13: 7021128117996585255
+      ooga_14: -3664430951875015468
+      ooga_15: 1007644657574692077
+      ooga_16: 2254954305814809351
+      ooga_17: 1474079002126270369
+      ooga_18: 8890467833448089257
+      ooga_19: 3996561359603838352
+      ooga_2: -1229884379644772334
+      ooga_20: -5264468821896682440
+      ooga_21: 3583256661672751985
+      ooga_22: -2624338037992402342
+      ooga_23: -2571515030036205583
+      ooga_24: 2481618857385950626
+      ooga_25: -4518782267265333126
+      ooga_26: -8276392311457257923
+      ooga_27: 3908721468435867215
+      ooga_28: 3588338436959169172
+      ooga_29: 3768369388177754356
+      ooga_3: -156111201074950446
+      ooga_30: -981806161533087488
+      ooga_31: -2681531664495678952
+      ooga_32: -4147899935970622847
+      ooga_33: -7318232789071792573
+      ooga_34: 5720508362043397988
+      ooga_35: 5763635327048363422
+      ooga_36: 2786858717360372025
+      ooga_37: 3725517955489213653
+      ooga_38: -6895098635574827392
+      ooga_39: -7857903172922710842
+      ooga_4: 3086652010770187740
+      ooga_40: 9016333374308293723
+      ooga_41: 1841266457634889244
+      ooga_42: 8257143722407333602
+      ooga_43: -5606139854485969683
+      ooga_44: 7497902495548448824
+      ooga_45: -2848461845652106310
+      ooga_46: 6458486445954966044
+      ooga_47: 2565401049987473846
+      ooga_48: -1678968191466205634
+      ooga_49: 649185081001899368
+      ooga_5: -8372736358546371357
+      ooga_50: -4107999750082846289
+      ooga_51: 8922212596046348522
+      ooga_52: 5535917549466546289
+      ooga_53: 6937969662855917282
+      ooga_54: 5538104456313237867
+      ooga_55: 6396543664829667262
+      ooga_56: -4652697149198545649
+      ooga_57: 9218779497491256604
+      ooga_58: -8775826086921165150
+      ooga_59: -5760196454697586629
+      ooga_6: 7567217235683457333
+      ooga_60: 125841139945030381
+      ooga_61: -1854741250483468621
+      ooga_62: -9158469724178525760
+      ooga_63: 1143603901842909759
+      ooga_64: -7518249095822393856
+      ooga_65: -6203802634715642758
+      ooga_66: 439922850088792034
+      ooga_67: 2556107758119055461
+      ooga_68: -6477472182381506998
+      ooga_69: 6677079697164585209
+      ooga_7: 456274444846923555
+      ooga_70: -4848611558588461839
+      ooga_71: -4356454933620708056
+      ooga_72: -8623118740662098719
+      ooga_73: -169893735515214696
+      ooga_74: 335339982156795041
+      ooga_75: -3314468926909669519
+      ooga_76: 5125845923218332672
+      ooga_77: 845858486541811845
+      ooga_78: 3959264354652025204
+      ooga_79: 1561951815998512883
+      ooga_8: -8107728835489124440
+      ooga_80: 6457364022692848942
+      ooga_81: -5506281899456517967
+      ooga_82: 5708335133334764070
+      ooga_83: -7903027371045476481
+      ooga_84: 7756061870318120834
+      ooga_85: 5258380053046909549
+      ooga_86: -8079673443498559688
+      ooga_87: 1054087240997167107
+      ooga_88: -2583181311777124822
+      ooga_89: 7774721604366805119
+      ooga_9: -1949381495252461112
+      ooga_90: 7920061435440566458
+      ooga_91: 8910260246300964115
+      ooga_92: 5982437127778724419
+      ooga_93: 4711588780606506972
+      ooga_94: 7582632727482138687
+      ooga_95: -5610944314547709315
+      ooga_96: -8639082988724203408
+      ooga_97: -8417088849413670110
+      ooga_98: 1639701496282762503
+      ooga_99: -4117396994413727579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

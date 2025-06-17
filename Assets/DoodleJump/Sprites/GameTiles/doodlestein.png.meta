@@ -1,0 +1,3783 @@
+fileFormatVersion: 2
+guid: af6ac939dc4115446bc4e6803f8ad232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1163212401861513908
+    second: doodlestein_0
+  - first:
+      213: 7954065241647546762
+    second: doodlestein_1
+  - first:
+      213: 4400943179421961459
+    second: doodlestein_2
+  - first:
+      213: 6138587493514837415
+    second: doodlestein_3
+  - first:
+      213: 4175399358770650372
+    second: doodlestein_4
+  - first:
+      213: 1599403826947580642
+    second: doodlestein_5
+  - first:
+      213: -8258255679510922681
+    second: doodlestein_6
+  - first:
+      213: 5280981244206376433
+    second: doodlestein_7
+  - first:
+      213: -5256938986328399401
+    second: doodlestein_8
+  - first:
+      213: 528243193716138168
+    second: doodlestein_9
+  - first:
+      213: -7430366687516730651
+    second: doodlestein_10
+  - first:
+      213: 8032330809460863042
+    second: doodlestein_11
+  - first:
+      213: -3093849711186353177
+    second: doodlestein_12
+  - first:
+      213: 4277020431101207919
+    second: doodlestein_13
+  - first:
+      213: -567821435423451905
+    second: doodlestein_14
+  - first:
+      213: 7852386928758961897
+    second: doodlestein_15
+  - first:
+      213: -2826862073975877649
+    second: doodlestein_16
+  - first:
+      213: 5484723096951477004
+    second: doodlestein_17
+  - first:
+      213: 7813728650850556208
+    second: doodlestein_18
+  - first:
+      213: 2052202466828092308
+    second: doodlestein_19
+  - first:
+      213: 2573944741373108186
+    second: doodlestein_20
+  - first:
+      213: -1330378948491355958
+    second: doodlestein_21
+  - first:
+      213: 3718139745451780442
+    second: doodlestein_22
+  - first:
+      213: -2522397471803368830
+    second: doodlestein_23
+  - first:
+      213: -2621155488261699517
+    second: doodlestein_24
+  - first:
+      213: 8808943972768075551
+    second: doodlestein_25
+  - first:
+      213: -7732533770460195765
+    second: doodlestein_26
+  - first:
+      213: 8655072394967694648
+    second: doodlestein_27
+  - first:
+      213: -6422647501365731802
+    second: doodlestein_28
+  - first:
+      213: -602677088119967853
+    second: doodlestein_29
+  - first:
+      213: -6859509484973876536
+    second: doodlestein_30
+  - first:
+      213: -2973010628961670907
+    second: doodlestein_31
+  - first:
+      213: -9051504507982285307
+    second: doodlestein_32
+  - first:
+      213: -5833215961143486253
+    second: doodlestein_33
+  - first:
+      213: -5341457320059690004
+    second: doodlestein_34
+  - first:
+      213: -8199017430588173231
+    second: doodlestein_35
+  - first:
+      213: -4049729630282214894
+    second: doodlestein_36
+  - first:
+      213: 8926722802328476558
+    second: doodlestein_37
+  - first:
+      213: -4333572994409651
+    second: doodlestein_38
+  - first:
+      213: -4253779503695741064
+    second: doodlestein_39
+  - first:
+      213: 1348471292436405904
+    second: doodlestein_40
+  - first:
+      213: -2011280511217292257
+    second: doodlestein_41
+  - first:
+      213: 5160708844853565919
+    second: doodlestein_42
+  - first:
+      213: 6168213625214100798
+    second: doodlestein_43
+  - first:
+      213: -2992644061188684315
+    second: doodlestein_44
+  - first:
+      213: -8963154173668592200
+    second: doodlestein_45
+  - first:
+      213: -6469393339990061730
+    second: doodlestein_46
+  - first:
+      213: -4226104194500200683
+    second: doodlestein_47
+  - first:
+      213: 484751720970633819
+    second: doodlestein_48
+  - first:
+      213: -6503117931877110915
+    second: doodlestein_49
+  - first:
+      213: 6636190194366330825
+    second: doodlestein_50
+  - first:
+      213: 7238505895763264651
+    second: doodlestein_51
+  - first:
+      213: -5385996073642768095
+    second: doodlestein_52
+  - first:
+      213: -5478149392594879912
+    second: doodlestein_53
+  - first:
+      213: 80381980063423698
+    second: doodlestein_54
+  - first:
+      213: -2517916367190277387
+    second: doodlestein_55
+  - first:
+      213: 1540036090116093192
+    second: doodlestein_56
+  - first:
+      213: 7753825684164347758
+    second: doodlestein_57
+  - first:
+      213: 4638941248592443577
+    second: doodlestein_58
+  - first:
+      213: 2331830125910410149
+    second: doodlestein_59
+  - first:
+      213: -2043626628878510238
+    second: doodlestein_60
+  - first:
+      213: 3132184822320083397
+    second: doodlestein_61
+  - first:
+      213: -7310923011360893404
+    second: doodlestein_62
+  - first:
+      213: -1942273001001415239
+    second: doodlestein_63
+  - first:
+      213: 2735300801278277662
+    second: doodlestein_64
+  - first:
+      213: -7459837775500523250
+    second: doodlestein_65
+  - first:
+      213: 2069174026432644669
+    second: doodlestein_66
+  - first:
+      213: 7447520497500600022
+    second: doodlestein_67
+  - first:
+      213: -566856184391086302
+    second: doodlestein_68
+  - first:
+      213: -5962050267998686221
+    second: doodlestein_69
+  - first:
+      213: -6383210376469306239
+    second: doodlestein_70
+  - first:
+      213: 6960992473112436580
+    second: doodlestein_71
+  - first:
+      213: 8186100693446498920
+    second: doodlestein_72
+  - first:
+      213: -7646098278394160821
+    second: doodlestein_73
+  - first:
+      213: -2349498489579897875
+    second: doodlestein_74
+  - first:
+      213: 2451754071155488900
+    second: doodlestein_75
+  - first:
+      213: -5832770490834304383
+    second: doodlestein_76
+  - first:
+      213: 6860668747339524866
+    second: doodlestein_77
+  - first:
+      213: -2467161018721161813
+    second: doodlestein_78
+  - first:
+      213: 1359025998296435397
+    second: doodlestein_79
+  - first:
+      213: -5588299476509159880
+    second: doodlestein_80
+  - first:
+      213: 2591389322430616988
+    second: doodlestein_81
+  - first:
+      213: -7081390622722784023
+    second: doodlestein_82
+  - first:
+      213: -1585843058203260365
+    second: doodlestein_83
+  - first:
+      213: 8257898743156644762
+    second: doodlestein_84
+  - first:
+      213: -723432477227738981
+    second: doodlestein_85
+  - first:
+      213: -9156896012100957508
+    second: doodlestein_86
+  - first:
+      213: -1596708302562989546
+    second: doodlestein_87
+  - first:
+      213: 1694125659427043565
+    second: doodlestein_88
+  - first:
+      213: -5439027088183363320
+    second: doodlestein_89
+  - first:
+      213: 7202777248721853914
+    second: doodlestein_90
+  - first:
+      213: -8846940569204991302
+    second: doodlestein_91
+  - first:
+      213: -1964578007866366637
+    second: doodlestein_92
+  - first:
+      213: -6379532426567818838
+    second: doodlestein_93
+  - first:
+      213: 5905432292723305632
+    second: doodlestein_94
+  - first:
+      213: 2050331410565545976
+    second: doodlestein_95
+  - first:
+      213: 7952550521338918669
+    second: doodlestein_96
+  - first:
+      213: 6638054131071732877
+    second: doodlestein_97
+  - first:
+      213: 4689017971205441608
+    second: doodlestein_98
+  - first:
+      213: -4063112965672475838
+    second: doodlestein_99
+  - first:
+      213: 8862047892845592494
+    second: doodlestein_100
+  - first:
+      213: 5506900071890977229
+    second: doodlestein_101
+  - first:
+      213: 1418097748036306144
+    second: doodlestein_102
+  - first:
+      213: 351278472897195766
+    second: doodlestein_103
+  - first:
+      213: -4071993041589359244
+    second: doodlestein_104
+  - first:
+      213: -4290865202381899571
+    second: doodlestein_105
+  - first:
+      213: 5213875158548559554
+    second: doodlestein_106
+  - first:
+      213: -3550356292539657952
+    second: doodlestein_107
+  - first:
+      213: -2491940188325759635
+    second: doodlestein_108
+  - first:
+      213: -8675854956008974746
+    second: doodlestein_109
+  - first:
+      213: 7061885445368943358
+    second: doodlestein_110
+  - first:
+      213: 6936788216520010465
+    second: doodlestein_111
+  - first:
+      213: 7958691856156352601
+    second: doodlestein_112
+  - first:
+      213: 6625219384400339754
+    second: doodlestein_113
+  - first:
+      213: -7981346384334909170
+    second: doodlestein_114
+  - first:
+      213: 7632880097652300016
+    second: doodlestein_115
+  - first:
+      213: 5010938341117430778
+    second: doodlestein_116
+  - first:
+      213: 9084410980247842926
+    second: doodlestein_117
+  - first:
+      213: 4480186013824269330
+    second: doodlestein_118
+  - first:
+      213: -7009708954286255811
+    second: doodlestein_119
+  - first:
+      213: -8526887970662361909
+    second: doodlestein_120
+  - first:
+      213: 2377477560182951392
+    second: doodlestein_121
+  - first:
+      213: -3863929542082393765
+    second: doodlestein_122
+  - first:
+      213: -143111191511428528
+    second: doodlestein_123
+  - first:
+      213: -4442047496270727631
+    second: doodlestein_124
+  - first:
+      213: -4744491554407573114
+    second: doodlestein_125
+  - first:
+      213: -9025820865033502641
+    second: doodlestein_126
+  - first:
+      213: -8745630474159439625
+    second: doodlestein_127
+  - first:
+      213: 5274382021301860424
+    second: doodlestein_128
+  - first:
+      213: 8317464744330016675
+    second: doodlestein_129
+  - first:
+      213: 7397347601720279657
+    second: doodlestein_130
+  - first:
+      213: -515641729872758586
+    second: doodlestein_131
+  - first:
+      213: -7474090376800696784
+    second: doodlestein_132
+  - first:
+      213: 6595719034290015490
+    second: doodlestein_133
+  - first:
+      213: 5967142414886514209
+    second: doodlestein_134
+  - first:
+      213: -6753094310962672582
+    second: doodlestein_135
+  - first:
+      213: 3601354163238417130
+    second: doodlestein_136
+  - first:
+      213: 5309204997854073835
+    second: doodlestein_137
+  - first:
+      213: 1375231366598440960
+    second: doodlestein_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doodlestein_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d27b4cb707bdfe0800000000000000
+      internalID: -1163212401861513908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a810fa0e134826e60800000000000000
+      internalID: 7954065241647546762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 420
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fccf16218a431d30800000000000000
+      internalID: 4400943179421961459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 465
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7b9d3dc4a03550800000000000000
+      internalID: 6138587493514837415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 465
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d1be6389ff1f930800000000000000
+      internalID: 4175399358770650372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 465
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e26c9d7e49323610800000000000000
+      internalID: 1599403826947580642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 465
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a366ea638c46d80800000000000000
+      internalID: -8258255679510922681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 465
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5eb663670d94940800000000000000
+      internalID: 5280981244206376433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 455
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d16ef928d99b07b0800000000000000
+      internalID: -5256938986328399401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e77cc262b45700800000000000000
+      internalID: 528243193716138168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea5baf8dd802e890800000000000000
+      internalID: -7430366687516730651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 419
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24037586052987f60800000000000000
+      internalID: 8032330809460863042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 396
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ea4064107015d0800000000000000
+      internalID: -3093849711186353177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6520e4eb670b5b30800000000000000
+      internalID: 4277020431101207919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 430
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff49bb5b961be18f0800000000000000
+      internalID: -567821435423451905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 443
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e63997de4849fc60800000000000000
+      internalID: 7852386928758961897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 399
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc4abcbe7f4c8d0800000000000000
+      internalID: -2826862073975877649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 422
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c035c2de896ad1c40800000000000000
+      internalID: 5484723096951477004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0395d3d1fc0ff6c60800000000000000
+      internalID: 7813728650850556208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 420
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49308724543ea7c10800000000000000
+      internalID: 2052202466828092308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 421
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf570dda1d78b320800000000000000
+      internalID: 2573944741373108186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 421
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8d38e156b898de0800000000000000
+      internalID: -1330378948491355958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 421
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a592ae0266c799330800000000000000
+      internalID: 3718139745451780442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 421
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a11d61dd4aefcd0800000000000000
+      internalID: -2522397471803368830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 311
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348881d88f8cf9bd0800000000000000
+      internalID: -2621155488261699517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 329
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fc8271fd7af3a70800000000000000
+      internalID: 8808943972768075551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441206218580b490800000000000000
+      internalID: -7732533770460195765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 398
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83db6579c7efc1870800000000000000
+      internalID: 8655072394967694648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 392
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e9b8b402c2ed6a0800000000000000
+      internalID: -6422647501365731802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 399
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa758a16cd2a7f0800000000000000
+      internalID: -602677088119967853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 340
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca95b677702ec0a0800000000000000
+      internalID: -6859509484973876536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509674ba59ebdb6d0800000000000000
+      internalID: -2973010628961670907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 371
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5067ede5b98926280800000000000000
+      internalID: -9051504507982285307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 371
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d857e13df04c0fa0800000000000000
+      internalID: -5833215961143486253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 371
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3aeee1ed45fd5b0800000000000000
+      internalID: -5341457320059690004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 371
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545e8e461d373e80800000000000000
+      internalID: -8199017430588173231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 371
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21297ae8b587cc7c0800000000000000
+      internalID: -4049729630282214894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 371
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b1b29c71712eb70800000000000000
+      internalID: 8926722802328476558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 371
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b5f0963aa90fff0800000000000000
+      internalID: -4333572994409651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 371
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fb061341a87f4c0800000000000000
+      internalID: -4253779503695741064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 371
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09edb77fe7bb6b210800000000000000
+      internalID: 1348471292436405904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 371
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c2a31080f7614e0800000000000000
+      internalID: -2011280511217292257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_42
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 371
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd996be0a558e9740800000000000000
+      internalID: 5160708844853565919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 370
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e356c9d8c95e99550800000000000000
+      internalID: 6168213625214100798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 370
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e58aa1051ef776d0800000000000000
+      internalID: -2992644061188684315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 365
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57c6394ca7c9380800000000000000
+      internalID: -8963154173668592200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 367
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d4d9998091836a0800000000000000
+      internalID: -6469393339990061730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f60f30acd955c0800000000000000
+      internalID: -4226104194500200683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 344
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c6b43f1f2ab600800000000000000
+      internalID: 484751720970633819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 344
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bedf922b840c5a0800000000000000
+      internalID: -6503117931877110915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 344
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7b22d52db781c50800000000000000
+      internalID: 6636190194366330825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 344
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b844a8dc2c6547460800000000000000
+      internalID: 7238505895763264651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 344
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129cfd47b191145b0800000000000000
+      internalID: -5385996073642768095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 321
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3cd3e624b9f3b0800000000000000
+      internalID: -5478149392594879912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd5082cf29d1100800000000000000
+      internalID: 80381980063423698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_55
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 329
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f24b7f87609e0dd0800000000000000
+      internalID: -2517916367190277387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_56
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 344
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805b6ac1aae4f5510800000000000000
+      internalID: 1540036090116093192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 344
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e678ae2d06f1b9b60800000000000000
+      internalID: 7753825684164347758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_58
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 344
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b87248cc74d06040800000000000000
+      internalID: 4638941248592443577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_59
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 344
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3c17b15235c5020800000000000000
+      internalID: 2331830125910410149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 344
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267da2c986493a3e0800000000000000
+      internalID: -2043626628878510238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c132493081c77b20800000000000000
+      internalID: 3132184822320083397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 275
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426da9f81426a8a90800000000000000
+      internalID: -7310923011360893404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 275
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd8a760ff8ab05e0800000000000000
+      internalID: -1942273001001415239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 309
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e187806269db5f520800000000000000
+      internalID: 2735300801278277662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 316
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09404d2115597890800000000000000
+      internalID: -7459837775500523250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_66
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 312
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d368bf760de27bc10800000000000000
+      internalID: 2069174026432644669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 319
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6b6fe0f68ea5760800000000000000
+      internalID: 7447520497500600022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_68
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 321
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fc2aabd4f1228f0800000000000000
+      internalID: -566856184391086302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 292
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f37aea9eda824da0800000000000000
+      internalID: -5962050267998686221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 284
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184a5f77bf74a67a0800000000000000
+      internalID: -6383210376469306239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fd80cf5c96a9060800000000000000
+      internalID: 6960992473112436580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 249
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a1578753fda9170800000000000000
+      internalID: 8186100693446498920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_73
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491796602a93e590800000000000000
+      internalID: -7646098278394160821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf5486297e46fd0800000000000000
+      internalID: -2349498489579897875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_75
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 290
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48837d77651660220800000000000000
+      internalID: 2451754071155488900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 272
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c0755426dd0fa0800000000000000
+      internalID: -5832770490834304383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 272
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bebc650edf53f50800000000000000
+      internalID: 6860668747339524866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 272
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad2f630022e2cdd0800000000000000
+      internalID: -2467161018721161813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_79
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 277
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cacafce1fa3cd210800000000000000
+      internalID: 1359025998296435397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_80
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 187
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e8b24fb3f5272b0800000000000000
+      internalID: -5588299476509159880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959736ebd676f320800000000000000
+      internalID: 2591389322430616988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 213
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e483d85fb8d9bd90800000000000000
+      internalID: -7081390622722784023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_83
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 253
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a86460424fdf9e0800000000000000
+      internalID: -1585843058203260365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 255
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b1ff89723f99270800000000000000
+      internalID: 8257898743156644762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_85
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 244
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b981cdfaef9d5f5f0800000000000000
+      internalID: -723432477227738981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba0881a79b2ce080800000000000000
+      internalID: -9156896012100957508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ae0df224a57d9e0800000000000000
+      internalID: -1596708302562989546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 210
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8f507bf4eb28710800000000000000
+      internalID: 1694125659427043565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 209
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8097a153ea1b484b0800000000000000
+      internalID: -5439027088183363320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_90
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 179
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addd45aeeb765f360800000000000000
+      internalID: 7202777248721853914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_91
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 166
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba5b87ec6a593580800000000000000
+      internalID: -8846940569204991302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_92
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 226
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a49be5ba6cb4e0800000000000000
+      internalID: -1964578007866366637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1e659ee095777a0800000000000000
+      internalID: -6379532426567818838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aca4e4c16f44f150800000000000000
+      internalID: 5905432292723305632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 208
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffb5960e8d347c10800000000000000
+      internalID: 2050331410565545976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_96
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 190
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07f0c290922d5e60800000000000000
+      internalID: 7952550521338918669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_97
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 170
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4852ff0b1f1c50800000000000000
+      internalID: 6638054131071732877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_98
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 173
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488f17500db21140800000000000000
+      internalID: 4689017971205441608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_99
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 148
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243eec6f84cec97c0800000000000000
+      internalID: -4063112965672475838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_100
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 143
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7f8bfa915cfa70800000000000000
+      internalID: 8862047892845592494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_101
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 144
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc182a640707c6c40800000000000000
+      internalID: 5506900071890977229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_102
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 144
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e44c7073681ea310800000000000000
+      internalID: 1418097748036306144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_103
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe6742f8edffd400800000000000000
+      internalID: 351278472897195766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_104
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 144
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d243c27ef5d77c0800000000000000
+      internalID: -4071993041589359244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_105
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 159
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc831f815d8c374c0800000000000000
+      internalID: -4290865202381899571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_106
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 145
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6358815d76b5840800000000000000
+      internalID: 5213875158548559554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_107
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 145
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021d91533c99abec0800000000000000
+      internalID: -3550356292539657952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_108
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b2510a99da6dd0800000000000000
+      internalID: -2491940188325759635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 150
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666d54852eb299780800000000000000
+      internalID: -8675854956008974746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_110
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 154
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef297b7a56bd00260800000000000000
+      internalID: 7061885445368943358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6ac7512c644060800000000000000
+      internalID: 6936788216520010465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_112
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 93
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506ef28314f27e60800000000000000
+      internalID: 7958691856156352601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_113
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e63e9de181fb50800000000000000
+      internalID: 6625219384400339754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_114
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 145
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019e5c10cf8c3190800000000000000
+      internalID: -7981346384334909170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_115
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 136
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8d6b112007de960800000000000000
+      internalID: 7632880097652300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_116
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 116
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb80b54fdd6a8540800000000000000
+      internalID: 5010938341117430778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_117
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60b45fb7af421e70800000000000000
+      internalID: 9084410980247842926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_118
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 114
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c3ba94171dc2e30800000000000000
+      internalID: 4480186013824269330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_119
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 110
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3194e858d288be90800000000000000
+      internalID: -7009708954286255811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_120
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 117
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45e1d61986aa980800000000000000
+      internalID: -8526887970662361909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_121
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 118
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edca2c9e3f7ef020800000000000000
+      internalID: 2377477560182951392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_122
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 119
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b598a0fad80906ac0800000000000000
+      internalID: -3863929542082393765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_123
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 121
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052149a2121930ef0800000000000000
+      internalID: -143111191511428528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_124
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 122
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136be5d465daa52c0800000000000000
+      internalID: -4442047496270727631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_125
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 114
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68912b3911e282eb0800000000000000
+      internalID: -4744491554407573114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_126
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 117
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f408e5d7eb7ddb280800000000000000
+      internalID: -9025820865033502641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_127
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 99
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f045ea8b6741a680800000000000000
+      internalID: -8745630474159439625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_128
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 61
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8487765e08e523940800000000000000
+      internalID: 5274382021301860424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_129
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 80
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a730adfd129d6370800000000000000
+      internalID: 8317464744330016675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_130
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 80
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96200a07378a8a660800000000000000
+      internalID: 7397347601720279657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f093249218d8f0800000000000000
+      internalID: -515641729872758586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_132
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03601a7d662b64890800000000000000
+      internalID: -7474090376800696784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_133
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d832d1483b88b50800000000000000
+      internalID: 6595719034290015490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_134
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2a7b396c8fc250800000000000000
+      internalID: 5967142414886514209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_135
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ccb5ce0803842a0800000000000000
+      internalID: -6753094310962672582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_136
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2333ad7849af130800000000000000
+      internalID: 3601354163238417130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_137
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 34
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be312d0f0d51ea940800000000000000
+      internalID: 5309204997854073835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodlestein_138
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008331244adc51310800000000000000
+      internalID: 1375231366598440960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      doodlestein_0: -1163212401861513908
+      doodlestein_1: 7954065241647546762
+      doodlestein_10: -7430366687516730651
+      doodlestein_100: 8862047892845592494
+      doodlestein_101: 5506900071890977229
+      doodlestein_102: 1418097748036306144
+      doodlestein_103: 351278472897195766
+      doodlestein_104: -4071993041589359244
+      doodlestein_105: -4290865202381899571
+      doodlestein_106: 5213875158548559554
+      doodlestein_107: -3550356292539657952
+      doodlestein_108: -2491940188325759635
+      doodlestein_109: -8675854956008974746
+      doodlestein_11: 8032330809460863042
+      doodlestein_110: 7061885445368943358
+      doodlestein_111: 6936788216520010465
+      doodlestein_112: 7958691856156352601
+      doodlestein_113: 6625219384400339754
+      doodlestein_114: -7981346384334909170
+      doodlestein_115: 7632880097652300016
+      doodlestein_116: 5010938341117430778
+      doodlestein_117: 9084410980247842926
+      doodlestein_118: 4480186013824269330
+      doodlestein_119: -7009708954286255811
+      doodlestein_12: -3093849711186353177
+      doodlestein_120: -8526887970662361909
+      doodlestein_121: 2377477560182951392
+      doodlestein_122: -3863929542082393765
+      doodlestein_123: -143111191511428528
+      doodlestein_124: -4442047496270727631
+      doodlestein_125: -4744491554407573114
+      doodlestein_126: -9025820865033502641
+      doodlestein_127: -8745630474159439625
+      doodlestein_128: 5274382021301860424
+      doodlestein_129: 8317464744330016675
+      doodlestein_13: 4277020431101207919
+      doodlestein_130: 7397347601720279657
+      doodlestein_131: -515641729872758586
+      doodlestein_132: -7474090376800696784
+      doodlestein_133: 6595719034290015490
+      doodlestein_134: 5967142414886514209
+      doodlestein_135: -6753094310962672582
+      doodlestein_136: 3601354163238417130
+      doodlestein_137: 5309204997854073835
+      doodlestein_138: 1375231366598440960
+      doodlestein_14: -567821435423451905
+      doodlestein_15: 7852386928758961897
+      doodlestein_16: -2826862073975877649
+      doodlestein_17: 5484723096951477004
+      doodlestein_18: 7813728650850556208
+      doodlestein_19: 2052202466828092308
+      doodlestein_2: 4400943179421961459
+      doodlestein_20: 2573944741373108186
+      doodlestein_21: -1330378948491355958
+      doodlestein_22: 3718139745451780442
+      doodlestein_23: -2522397471803368830
+      doodlestein_24: -2621155488261699517
+      doodlestein_25: 8808943972768075551
+      doodlestein_26: -7732533770460195765
+      doodlestein_27: 8655072394967694648
+      doodlestein_28: -6422647501365731802
+      doodlestein_29: -602677088119967853
+      doodlestein_3: 6138587493514837415
+      doodlestein_30: -6859509484973876536
+      doodlestein_31: -2973010628961670907
+      doodlestein_32: -9051504507982285307
+      doodlestein_33: -5833215961143486253
+      doodlestein_34: -5341457320059690004
+      doodlestein_35: -8199017430588173231
+      doodlestein_36: -4049729630282214894
+      doodlestein_37: 8926722802328476558
+      doodlestein_38: -4333572994409651
+      doodlestein_39: -4253779503695741064
+      doodlestein_4: 4175399358770650372
+      doodlestein_40: 1348471292436405904
+      doodlestein_41: -2011280511217292257
+      doodlestein_42: 5160708844853565919
+      doodlestein_43: 6168213625214100798
+      doodlestein_44: -2992644061188684315
+      doodlestein_45: -8963154173668592200
+      doodlestein_46: -6469393339990061730
+      doodlestein_47: -4226104194500200683
+      doodlestein_48: 484751720970633819
+      doodlestein_49: -6503117931877110915
+      doodlestein_5: 1599403826947580642
+      doodlestein_50: 6636190194366330825
+      doodlestein_51: 7238505895763264651
+      doodlestein_52: -5385996073642768095
+      doodlestein_53: -5478149392594879912
+      doodlestein_54: 80381980063423698
+      doodlestein_55: -2517916367190277387
+      doodlestein_56: 1540036090116093192
+      doodlestein_57: 7753825684164347758
+      doodlestein_58: 4638941248592443577
+      doodlestein_59: 2331830125910410149
+      doodlestein_6: -8258255679510922681
+      doodlestein_60: -2043626628878510238
+      doodlestein_61: 3132184822320083397
+      doodlestein_62: -7310923011360893404
+      doodlestein_63: -1942273001001415239
+      doodlestein_64: 2735300801278277662
+      doodlestein_65: -7459837775500523250
+      doodlestein_66: 2069174026432644669
+      doodlestein_67: 7447520497500600022
+      doodlestein_68: -566856184391086302
+      doodlestein_69: -5962050267998686221
+      doodlestein_7: 5280981244206376433
+      doodlestein_70: -6383210376469306239
+      doodlestein_71: 6960992473112436580
+      doodlestein_72: 8186100693446498920
+      doodlestein_73: -7646098278394160821
+      doodlestein_74: -2349498489579897875
+      doodlestein_75: 2451754071155488900
+      doodlestein_76: -5832770490834304383
+      doodlestein_77: 6860668747339524866
+      doodlestein_78: -2467161018721161813
+      doodlestein_79: 1359025998296435397
+      doodlestein_8: -5256938986328399401
+      doodlestein_80: -5588299476509159880
+      doodlestein_81: 2591389322430616988
+      doodlestein_82: -7081390622722784023
+      doodlestein_83: -1585843058203260365
+      doodlestein_84: 8257898743156644762
+      doodlestein_85: -723432477227738981
+      doodlestein_86: -9156896012100957508
+      doodlestein_87: -1596708302562989546
+      doodlestein_88: 1694125659427043565
+      doodlestein_89: -5439027088183363320
+      doodlestein_9: 528243193716138168
+      doodlestein_90: 7202777248721853914
+      doodlestein_91: -8846940569204991302
+      doodlestein_92: -1964578007866366637
+      doodlestein_93: -6379532426567818838
+      doodlestein_94: 5905432292723305632
+      doodlestein_95: 2050331410565545976
+      doodlestein_96: 7952550521338918669
+      doodlestein_97: 6638054131071732877
+      doodlestein_98: 4689017971205441608
+      doodlestein_99: -4063112965672475838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
