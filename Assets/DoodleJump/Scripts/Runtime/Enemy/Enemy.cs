@@ -1,5 +1,6 @@
 using Assets.DoodleJump.Scripts.Common;
 using Assets.DoodleJump.Scripts.Common.SignalBus.Signals;
+using Assets.DoodleJump.Scripts.Common.SignalBus.Signals.Gameplay;
 using Assets.DoodleJump.Scripts.Runtime.Interfaces.Actions.Common;
 using Tools.SignalBus;
 using UnityEngine;
@@ -18,6 +19,7 @@ namespace Assets.DoodleJump.Scripts.Runtime.Enemy
         {
             if(Misc.IsInLayerMask(collision.gameObject, _destroyMask))
             {
+                SignalBus.Instance.Invoke(new KillEnemySignal());
                 Destroy(gameObject);
             }
         }

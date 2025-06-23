@@ -200,4 +200,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnPoint: {fileID: 2723167834516459141}
-  _jumpForce: 7
+  <JumpForce>k__BackingField: 7

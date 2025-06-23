@@ -11,7 +11,7 @@ namespace Assets.DoodleJump.Scripts.Runtime.Player
         [SerializeField] private Transform _shootPoint;
         [SerializeField] private float _shootForce = 20f;
 
-        private Queue<GameObject> _clip = new(); 
+        private Queue<GameObject> _clip = new();
 
         private void Awake()
         {
@@ -25,14 +25,12 @@ namespace Assets.DoodleJump.Scripts.Runtime.Player
 
         private void OnEnable()
         {
-            SignalBus.Instance.Subscribe<BulletRestoreSignal>(Restore);
-            SignalBus.Instance.Subscribe<ShootSignal>(Shoot);
+            SubscribeEvents();
         }
 
         private void OnDisable()
         {
-            SignalBus.Instance.Unsubscribe<BulletRestoreSignal>(Restore);
-            SignalBus.Instance.Unsubscribe<ShootSignal>(Shoot);
+            UnsubscribeEvents();
         }
 
         public void Shoot(ShootSignal signal)
@@ -46,7 +44,7 @@ namespace Assets.DoodleJump.Scripts.Runtime.Player
             GameObject bullet = _clip.Dequeue();
             bullet.SetActive(true);
             bullet.transform.SetParent(null);
-            bullet.GetComponent<Rigidbody2D>().linearVelocityX = _shootForce * -transform.localScale.x; 
+            bullet.GetComponent<Rigidbody2D>().linearVelocityX = _shootForce * -transform.localScale.x;
         }
 
         private void Restore(BulletRestoreSignal signal)
@@ -56,6 +54,17 @@ namespace Assets.DoodleJump.Scripts.Runtime.Player
             signal.Bullet.transform.SetParent(_shootPoint);
             signal.Bullet.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
             _clip.Enqueue(signal.Bullet);
+        }
+        private void SubscribeEvents()
+        {
+            SignalBus.Instance.Subscribe<BulletRestoreSignal>(Restore);
+            SignalBus.Instance.Subscribe<ShootSignal>(Shoot);
+        }
+
+        private void UnsubscribeEvents()
+        {
+            SignalBus.Instance.Unsubscribe<BulletRestoreSignal>(Restore);
+            SignalBus.Instance.Unsubscribe<ShootSignal>(Shoot);
         }
     }
 }

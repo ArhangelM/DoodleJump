@@ -1,4 +1,6 @@
-﻿namespace Assets.Scripts.Runtime.Interaction.Platforms
+﻿using Assets.DoodleJump.Scripts.Runtime.Interaction.Platforms;
+
+namespace Assets.Scripts.Runtime.Interaction.Platforms
 {
     internal class DestroyPlatform : BasePlatform
     {

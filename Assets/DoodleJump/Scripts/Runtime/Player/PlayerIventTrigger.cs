@@ -1,17 +1,20 @@
 using Assets.DoodleJump.Scripts.Common.SignalBus.Signals;
+using Assets.DoodleJump.UI.View;
 using Tools.SignalBus;
 using UnityEngine;
 
-public class PlayerIventTrigger : MonoBehaviour
+namespace Assets.DoodleJump.Scripts.Runtime.Player
 {
-    [SerializeField] private GameOverView _gameOverView;
-    [SerializeField] private PlayerMovement _playerMovement;
-    private void OnTriggerEnter2D(Collider2D collision)
+    public class PlayerIventTrigger : MonoBehaviour
     {
-        if(collision.CompareTag("EndZone"))
+        [SerializeField] private GameOverView _gameOverView;
+
+        private void OnTriggerEnter2D(Collider2D collision)
         {
-            SignalBus.Instance.Invoke(new EndGameSignal());
-            _playerMovement.StopPlayer();
+            if (collision.CompareTag("EndZone"))
+            {
+                SignalBus.Instance.Invoke(new EndGameSignal());
+            }
         }
     }
 }

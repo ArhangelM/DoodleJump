@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnPoint: {fileID: 8945309556497775658}
-  _jumpForce: 7
+  <JumpForce>k__BackingField: 7
   _stages:
   - {fileID: -6866488015246359349, guid: 37fc47ab1ec928b4b9d01a409fa92a07, type: 3}
   - {fileID: -4840131069968613933, guid: 37fc47ab1ec928b4b9d01a409fa92a07, type: 3}
