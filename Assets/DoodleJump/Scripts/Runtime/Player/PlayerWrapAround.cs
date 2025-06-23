@@ -1,36 +1,39 @@
 using UnityEngine;
 
-public class PlayerWrapAround : MonoBehaviour
+namespace Assets.DoodleJump.Scripts.Runtime.Player
 {
-    [SerializeField] private float _buffer = 0.5f;
-
-    private float _leftLimit;
-    private float _rightLimit;
-
-    private void Start()
+    public class PlayerWrapAround : MonoBehaviour
     {
-        var camera = Camera.main;
-        Vector3 leftPoint = camera.ViewportToWorldPoint(new Vector3(0, 0, 0));
-        Vector3 rightPoint = camera.ViewportToWorldPoint(new Vector3(1, 0, 0));
+        [SerializeField] private float _buffer = 0.5f;
 
-        _leftLimit = leftPoint.x - _buffer;
-        _rightLimit = rightPoint.x + _buffer;
-    }
+        private float _leftLimit;
+        private float _rightLimit;
 
-    private void Update()
-    {
-        CheckWrapArround();
-    }
+        private void Start()
+        {
+            var camera = Camera.main;
+            Vector3 leftPoint = camera.ViewportToWorldPoint(new Vector3(0, 0, 0));
+            Vector3 rightPoint = camera.ViewportToWorldPoint(new Vector3(1, 0, 0));
 
-    private void CheckWrapArround()
-    {
-        Vector3 bufferPosition = transform.position;
+            _leftLimit = leftPoint.x - _buffer;
+            _rightLimit = rightPoint.x + _buffer;
+        }
 
-        if (bufferPosition.x < _leftLimit)
-            bufferPosition.x = _rightLimit;
-        else if(bufferPosition.x > _rightLimit)
-            bufferPosition.x = _leftLimit;
+        private void Update()
+        {
+            CheckWrapArround();
+        }
 
-        transform.position = bufferPosition;
+        private void CheckWrapArround()
+        {
+            Vector3 bufferPosition = transform.position;
+
+            if (bufferPosition.x < _leftLimit)
+                bufferPosition.x = _rightLimit;
+            else if (bufferPosition.x > _rightLimit)
+                bufferPosition.x = _leftLimit;
+
+            transform.position = bufferPosition;
+        }
     }
 }

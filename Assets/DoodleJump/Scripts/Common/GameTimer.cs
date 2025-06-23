@@ -2,38 +2,52 @@ using Cysharp.Threading.Tasks;
 using System;
 using System.Timers;
 using TMPro;
+using Tools.Extensions;
 using UnityEngine;
 
-public class GameTimer : MonoBehaviour
+namespace Assets.DoodleJump.Scripts.Common
 {
-    [SerializeField] private TextMeshProUGUI _timerText;
-
-    private Timer _timer;
-    private float _interval = 1000;
-    private DateTime _start;
-
-    private void OnEnable()
+    public class GameTimer : MonoBehaviour
     {
-        _start = DateTime.Now;
-        _timer = new Timer(_interval);
-        _timer.Elapsed += async (sender, e) => await OnTimerElapsed(sender, e);
-        _timer.AutoReset = true;
-        _timer.Enabled = true;
-        _timer.Start();
-    }
+        [SerializeField] private TextMeshProUGUI _timerText;
 
-    private void OnDisable()
-    {
-        if (_timer != null)
+        private Timer _timer;
+        private float _interval = 1000;
+        private DateTime _start;
+
+        private void OnEnable()
         {
-            _timer.Elapsed -= async (sender, e) => await OnTimerElapsed(sender, e);
-            _timer.Stop();
+            TimerSetting();
+            _timer.Start();
         }
-    }
 
-    public async UniTask OnTimerElapsed(object sender, ElapsedEventArgs e)
-    {
-        await UniTask.SwitchToMainThread();
-        _timerText.text = (e.SignalTime - _start).ToString(@"mm\:ss");
+        private void OnDisable()
+        {
+            if (_timer.HasValue())
+            {
+                _timer.Elapsed -= TimerElapsed;
+                _timer.Stop();
+            }
+        }
+
+        private async void TimerElapsed(object sender, ElapsedEventArgs e)
+        {
+            await OnTimerElapsed(sender, e);
+        }
+
+        private async UniTask OnTimerElapsed(object sender, ElapsedEventArgs e)
+        {
+            await UniTask.SwitchToMainThread();
+            _timerText.text = (e.SignalTime - _start).ToString(@"mm\:ss");
+        }
+
+        private void TimerSetting()
+        {
+            _start = DateTime.Now;
+            _timer = new Timer(_interval);
+            _timer.Elapsed += TimerElapsed;
+            _timer.AutoReset = true;
+            _timer.Enabled = true;
+        }
     }
 }

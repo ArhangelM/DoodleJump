@@ -1,27 +1,37 @@
+using Tools.Extensions;
 using UnityEngine;
 
-public class CameraFollow : MonoBehaviour
+namespace Assets.DoodleJump.Scripts.Runtime.Player
 {
-    [SerializeField] private Transform _target;
-    [SerializeField] private float _smoothSpeed = 0.01f;
-
-    private Vector3 _offset;
-
-    private void LateUpdate()
+    public class CameraFollow : MonoBehaviour
     {
-        CheckAndUpdateCameraPosition();
+        [SerializeField] private float _smoothSpeed = 0.01f;
+
+        private Transform _target;
+        private Vector3 _offset;
+
+        private void LateUpdate()
+        {
+            if (_target.HasValue())
+                CheckAndUpdateCameraPosition();
+        }
+
+        private void CheckAndUpdateCameraPosition()
+        {
+            if (transform.position.y > _target.position.y)
+                return;
+
+            Vector3 desiredPosition = _target.position + _offset;
+            Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, _smoothSpeed);
+
+            smoothedPosition = new Vector3(transform.position.x, smoothedPosition.y, -10f);
+            transform.position = smoothedPosition;
+        }
+
+        public void SetTarget(Transform target)
+        {
+            _target = target;
+            //_offset = transform.position - target.position;
+        }
     }
-
-    private void CheckAndUpdateCameraPosition()
-    {
-        if (transform.position.y > _target.position.y)
-            return;
-
-        Vector3 desiredPosition = _target.position + _offset;
-        Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, _smoothSpeed);
-
-        smoothedPosition = new Vector3(transform.position.x, smoothedPosition.y, -10f);
-        transform.position = smoothedPosition;
-    }
-
 }

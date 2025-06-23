@@ -2,35 +2,38 @@ using Assets.DoodleJump.Scripts.Common.SignalBus.Signals;
 using Tools.SignalBus;
 using UnityEngine;
 
-public class AudioManager : MonoBehaviour
+namespace Assets.DoodleJump.Scripts.Managers
 {
-    [SerializeField] private AudioSource _audioSource;
-
-    private void OnEnable()
+    public class AudioManager : MonoBehaviour
     {
-        SignalBus.Instance.Subscribe<ContactWithItemSingal>(PlaySound);
-    }
+        [SerializeField] private AudioSource _audioSource;
 
-    private void OnDisable()
-    {
-        SignalBus.Instance.Unsubscribe<ContactWithItemSingal>(PlaySound);
-    }
-
-    private void PlaySound(ContactWithItemSingal signal)
-    {
-        if (signal.Sound == null)
-            return;
-
-        _audioSource.resource = signal.Sound;
-
-        if (!_audioSource.isPlaying)
+        private void OnEnable()
         {
-            _audioSource.Play();
+            SignalBus.Instance.Subscribe<ContactWithItemSingal>(PlaySound);
         }
-        else
+
+        private void OnDisable()
         {
-            _audioSource.Stop();
-            _audioSource.Play();
+            SignalBus.Instance.Unsubscribe<ContactWithItemSingal>(PlaySound);
+        }
+
+        private void PlaySound(ContactWithItemSingal signal)
+        {
+            if (signal.Sound == null)
+                return;
+
+            _audioSource.resource = signal.Sound;
+
+            if (!_audioSource.isPlaying)
+            {
+                _audioSource.Play();
+            }
+            else
+            {
+                _audioSource.Stop();
+                _audioSource.Play();
+            }
         }
     }
 }
