@@ -11,6 +11,7 @@ namespace Assets.DoodleJump.Scripts.Managers
         [SerializeField] private Canvas _endGameCanvas;
         [SerializeField] private Canvas _mainMenuCanvas;
         [SerializeField] private Canvas _gameCanvas;
+        [SerializeField] private Canvas _background;
 
         private float _timeScaleStopGame = 0f;
 
@@ -48,6 +49,7 @@ namespace Assets.DoodleJump.Scripts.Managers
             _gameCanvas.worldCamera = Camera.main;
             _mainMenuCanvas.enabled = false;
             _gameCanvas.enabled = true;
+            _background.enabled = true;
         }
 
         private void RestartGame(RestartGameSignal signal)
@@ -64,6 +66,8 @@ namespace Assets.DoodleJump.Scripts.Managers
                 Debug.LogError("Main Menu Canvas is not assigned in NavigationManager.");
             if (!_gameCanvas.HasValue())
                 Debug.LogError("Game Canvas is not assigned in NavigationManager.");
+            if (!_background.HasValue())
+                Debug.LogError("Background Canvas is not assigned in NavigationManager.");
         }
 
         private void Initialization()
@@ -71,6 +75,7 @@ namespace Assets.DoodleJump.Scripts.Managers
             _endGameCanvas.enabled = false;
             _mainMenuCanvas.enabled = true;
             _gameCanvas.enabled = false;
+            _background.enabled = false;
         }
 
         private void SubscribeEvents()
