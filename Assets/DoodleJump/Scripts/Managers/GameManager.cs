@@ -23,10 +23,10 @@ namespace Assets.DoodleJump.Scripts.Managers
         private float _timeScaleInGame = 1f; 
         private float _timeScaleStopGame = 0f;
 
-        private void Awake()
+        private async void Awake()
         {
             FileHelper.LoadStatistic();
-            LoadConfigurations();
+            await LoadConfigurations();
         }
 
         private void OnEnable()
@@ -37,6 +37,7 @@ namespace Assets.DoodleJump.Scripts.Managers
         private async void Start()
         {
             Time.timeScale = _timeScaleStopGame;
+            await LoadPrefabs();
             GenerateObjects();    
         }
 
@@ -45,24 +46,40 @@ namespace Assets.DoodleJump.Scripts.Managers
             UnsubscribeEvents();
         }
 
-        private void LoadConfigurations()
+        private async UniTask LoadConfigurations()
         {
-            _configuration = Resources.Load<StartupConfiguration>("Configurations/GameConfigurations/StartupConfiguration");
+            _configuration = await AddressableHelper.LoadAddressableAsset<StartupConfiguration>("StartupConfiguration");
             if (_configuration == null)
-                Debug.LogError("StartupConfiguration not found. Please ensure it is placed in the Resources folder.");
+                Debug.LogError("StartupConfiguration not found.");
+            else
+                Debug.Log("StartupConfiguration loaded successfully.");
         }
 
-        private async UniTask GenerateObjects()
+        private async UniTask LoadPrefabs()
         {
-            if(!_player.HasValue())
-                _player = Instantiate(_configuration.PlayerPrefab, Vector3.zero, Quaternion.identity);
+            if (!_player.HasValue())
+                _player = await AddressableHelper.LoadAddressableAsset<GameObject>("Player");
 
-            if(!_camera.HasValue())
-                _camera = Instantiate(_configuration.CameraPrefab, Vector3.zero, Quaternion.identity);
+            if (!_camera.HasValue())
+                _camera = await AddressableHelper.LoadAddressableAsset<GameObject>("Main Camera");
 
             if (!_platformGenerator.HasValue())
-                _platformGenerator = Instantiate(_configuration.PlatformGeneratorPrefab);
+                _platformGenerator = await AddressableHelper.LoadAddressableAsset<GameObject>("LocationGenerator");
 
+            Debug.Log("Loading prefabs from Addressables...");
+        }
+
+        private void GenerateObjects()
+        {
+            if (_player.HasValue())
+                _player = Instantiate(_configuration.PlayerPrefab, Vector3.zero, Quaternion.identity);
+
+            if(_camera.HasValue())
+                _camera = Instantiate(_configuration.CameraPrefab, Vector3.zero, Quaternion.identity);
+
+            if (_platformGenerator.HasValue())
+                _platformGenerator = Instantiate(_configuration.PlatformGeneratorPrefab);
+   
             if (!_platformGenerator.TryGetComponent(out _locationGenerator))
                 Debug.LogError("LocationGenerator component not found on PlatformGenerator prefab.");
 
