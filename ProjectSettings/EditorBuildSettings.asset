@@ -6,9 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/DoodleJump/Scenes/StartScene.unity
+    guid: e592ae47d713dca419d8cc9837404070
+  - enabled: 1
     path: Assets/DoodleJump/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: d4fc4742495a10945a7d5efc6002b92d, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 80b82c2fdd9d43747b79825d838e951b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c47208964c08e824abf134a422fc4da3, type: 2}
   m_UseUCBPForAssetBundles: 0

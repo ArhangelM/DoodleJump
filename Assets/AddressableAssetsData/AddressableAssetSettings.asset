@@ -52,7 +52,7 @@ MonoBehaviour:
   m_RemoteCatalogBuildPath:
     m_Id: 
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 8c3cf779878b4894bb03106ba591d15a
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -90,7 +90,7 @@ MonoBehaviour:
       - m_Id: 897ba44c2cd64214691102d052161743
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
       - m_Id: 8c3cf779878b4894bb03106ba591d15a
-        m_Value: <undefined>
+        m_Value: 'https://storage.googleapis.com/doodle_jump_bucket/[BuildTarget]'
       - m_Id: 99ef463bb0064a645a16c712a4446f03
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
     m_ProfileEntryNames:
