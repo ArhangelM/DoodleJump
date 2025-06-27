@@ -40,6 +40,7 @@ namespace Assets.DoodleJump.Scripts.Managers
         private void OpenMainMenu(OpenMenuSignal signal)
         {
             _endGameCanvas.enabled = false;
+            _gameCanvas.enabled = false;
             _mainMenuCanvas.enabled = true;
             Time.timeScale = _timeScaleStopGame;
         }

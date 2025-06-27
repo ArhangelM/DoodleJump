@@ -65,8 +65,6 @@ namespace Assets.DoodleJump.Scripts.Managers
 
             if (!_platformGenerator.HasValue())
                 _platformGenerator = await AddressableHelper.LoadAddressableAsset<GameObject>("LocationGenerator");
-
-            Debug.Log("Loading prefabs from Addressables...");
         }
 
         private void GenerateObjects()

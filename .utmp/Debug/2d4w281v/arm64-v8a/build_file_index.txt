@@ -1,0 +1,3 @@
+D:\Unity\Projects\DoodleJump\Up\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.Up\gradle-project\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Unity\Projects\DoodleJump\Up\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.Up\gradle-project\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+D:\Unity\Projects\DoodleJump\Up\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.Up\gradle-project\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

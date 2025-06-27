@@ -1,0 +1,12 @@
+# ninja log v5
+575	836	7726611451925828	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c557d7c34b06a22
+0	1441	7726611456939776	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	9c066e99ab8ff0a
+112	1673	7726611458995927	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1f8514968c8abf78
+845	1719	7726611460042655	D:/Unity/Projects/DoodleJump/Up/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.Up/gradle-project/unityLibrary/build/intermediates/cxx/Debug/2d4w281v/obj/arm64-v8a/libswappywrapper.so	d7407401d273afc9
+58	1788	7726611461051664	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3af5ef61b89f9983
+177	1826	7726611461810706	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	50df1dfb19716349
+313	1834	7726611461951312	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f4796f3b057fbda9
+241	1891	7726611462544098	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e3023b46d8406c0b
+382	2061	7726611464279259	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5fa5ba9d8e04f4f3
+473	2063	7726611464279259	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6d529eb730dc8536
+2063	2404	7726611467685936	D:/Unity/Projects/DoodleJump/Up/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.Up/gradle-project/unityLibrary/build/intermediates/cxx/Debug/2d4w281v/obj/arm64-v8a/libgame.so	c51821770c1d46dd
